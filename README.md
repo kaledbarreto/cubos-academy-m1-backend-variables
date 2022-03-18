@@ -2,8 +2,8 @@
 
 # Desenvolvimento de Software
 
-## Módulo 01 - Front-end
+## Módulo 01 - Back-end
 
-- Conhecendo mais elementos
+- Variáveis
 
 ###### tags: `módulo 1` `front-end` `HTML`
